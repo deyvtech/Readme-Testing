@@ -1,7 +1,7 @@
 ![Banner (1400 × 200 px)](https://user-images.githubusercontent.com/92702144/197099573-e6e23d18-684d-4827-8c9b-e1aac4d32ada.jpg)
  
 <h1>Hi there 👋</h1>
-<p>Newbie here</p>
+<p>Newbie Here</p>
 <br>
 
 ---
@@ -32,8 +32,7 @@
 - <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=Flat-square&logo=mdnwebdocs&logoColor=white" />
 
 ## Workspace Specs
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" /></p>

@@ -2,7 +2,7 @@
  
 # <h1 align="center">Hi there 👋 I'm Deyv-Tech</h1>
  <p>I'm a Junior Front End Web Developer 💻 !</p>
--
+---
 
 ## I'm currently Learning :
 ### 👩🏾‍💻 Skills
@@ -11,6 +11,6 @@
 ### 💻Terminal
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat-square&logo=windows%20terminal&logoColor=white">
 
-## 🌐 Web Browsers
+### 🌐 Web Browsers
 <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white" /> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" />
 

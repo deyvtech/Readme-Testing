@@ -5,4 +5,4 @@
 
 ## 💻 Terminal
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=?style=style-plastic-green?logo=appveyor&style=plastic&logo=Brave&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=?style=style-plastic-green?logo=appveyor&style=plastic&logo=Brave&logoColor=red)

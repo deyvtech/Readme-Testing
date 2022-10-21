@@ -36,9 +36,7 @@
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=dark&show_icons=true" alt="deyvtech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=dark&show_icons=true" alt="deyvtech" /></p>
 
 
 

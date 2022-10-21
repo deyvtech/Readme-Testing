@@ -2,9 +2,9 @@
 
 # Hi there 👋 I'm Deyv-Tech
 
-<h2 align="center">
+<h3 align="center">
 I'm a Front End Web Developer 💻 !
-</h2> 
+</h3> 
 
 ### I'm currently Learning on:
 

@@ -37,6 +37,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" /></p> 
+
+<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true" alt="deyvtech" /></p>
 
 

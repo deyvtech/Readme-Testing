@@ -6,7 +6,7 @@
 I'm a Front End Web Developer 💻 !
 </h3> 
 
-### I'm currently Learning on:
+### I'm currently Learning :
 
 ## 💻 Terminal
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />

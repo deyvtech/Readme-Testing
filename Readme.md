@@ -19,5 +19,6 @@
 <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white" /> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" />
 
 <img src="https://badge-size.herokuapp.com/deyvtech/deyvtech/main/README.md"/> 
+<img src="http://ForTheBadge.com/images/badges/built-by-deyvtech.svg"/> 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=green-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvtech&theme=green-green"/>  -->

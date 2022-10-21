@@ -2,11 +2,7 @@
  
 # <h1 align="center">Hi there 👋 I'm Deyv-Tech</h1>
  <p>I'm a Junior Front End Web Developer 💻 !</p>
-<br>
-
----
-
-<br>
+-
 
 ## I'm currently Learning :
 ### 👩🏾‍💻 Skills

@@ -36,18 +36,7 @@
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=Flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-ACER_NITRO_5-0078D6?style=Flat-square&logo=windows&logoColor=white" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" /></p> 
+# <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" />
 
-<br>
+# <img align="left" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true" alt="deyvtech" />
 
----
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true" alt="deyvtech" /></p>
-
-
-
-<!-- <img src="https://badge-size.herokuapp.com/deyvtech/deyvtech/main/README.md"/>  -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=green-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvtech&theme=green-green"/>  -->

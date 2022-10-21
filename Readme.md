@@ -9,7 +9,7 @@ I'm a Front End Web Developer 💻 !
 ### I'm currently Learning :
 
 ## Skills
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
 
 
 ## 💻Terminal

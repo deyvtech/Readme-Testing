@@ -9,11 +9,10 @@ I'm a Front End Web Developer 💻 !
 ### I'm currently Learning :
 
 ## Skills
-<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 
 
 ## 💻Terminal
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Powershell-5391FE?style=flat&logo&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> 
 ## 🌐 Web Browsers
 

@@ -38,6 +38,11 @@
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvtech&show_icons=true&locale=en&layout=compact" alt="deyvtech" />
 
-## Stats
-
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true" alt="deyvtech" />
+
+
+
+
+-   Gradient
+
+![deyctech's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvtech&theme=midnight-purple&show_icons=true&count_private=true)
